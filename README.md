@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rss3-network-mcp-server-rss3-badge.png)](https://mseep.ai/app/rss3-network-mcp-server-rss3)
+
 # MCP Server for RSS3
 
 An MCP server implementation that integrates the RSS3 API. Query the Open Web like a charm.
